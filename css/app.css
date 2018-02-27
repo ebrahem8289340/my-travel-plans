@@ -121,7 +121,7 @@ aside {
     display: inline-block;
     margin-right: 0.75em;
 }
-
+h2{background:red;color:blue;}
 
 /*** Footer Styling ***/
 footer {
